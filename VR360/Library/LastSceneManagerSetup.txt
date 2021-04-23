@@ -1,5 +1,5 @@
 sceneSetups:
-- path: C:/Users/julie/Downloads/Unity_HC_T_1V1_VR360-main/Unity_HC_T_1V1_VR360-main/VR360/Assets/Scenes/SampleScene.unity
+- path: "Assets/360 \u5834\u666F.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0

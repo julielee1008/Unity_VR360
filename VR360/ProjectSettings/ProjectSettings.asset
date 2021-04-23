@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 20
-  productGUID: 02ce98d5955260643bd486694d0b0b1f
+  productGUID: 235243529687add4cba50c59e6a3e0f2
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -270,6 +270,10 @@ PlayerSettings:
   m_BuildTargetGraphicsJobMode: []
   m_BuildTargetGraphicsAPIs: []
   m_BuildTargetVRSettings:
+  - m_BuildTarget: Android
+    m_Enabled: 1
+    m_Devices:
+    - OpenVR
   - m_BuildTarget: Standalone
     m_Enabled: 1
     m_Devices:
